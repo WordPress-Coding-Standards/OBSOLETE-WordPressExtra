@@ -2,5 +2,5 @@
 <ruleset name="WordPress Extra">
 	<description>WordPress Core + Extra Coding Standards</description>
 
-	<rule ref="WordPress/extra.ruleset.xml"/>
+	<rule ref="WordPress/Subsets/extra.ruleset.xml"/>
 </ruleset>
