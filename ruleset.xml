@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="WordPress Extra">
+	<description>WordPress Core + Extra Coding Standards</description>
+
+	<rule ref="WordPress/extra.ruleset.xml"/>
+</ruleset>
